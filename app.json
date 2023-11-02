@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PushNotification1",
+    "slug": "PushNotification1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PushNotification1"
+}
